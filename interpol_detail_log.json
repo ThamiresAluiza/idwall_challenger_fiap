@@ -1,0 +1,41 @@
+{
+  "date_of_birth": "1980/01/15",
+  "distinguishing_marks": null,
+  "weight": null,
+  "nationalities": [
+    "RU"
+  ],
+  "entity_id": "2017/271991",
+  "eyes_colors_id": null,
+  "sex_id": "M",
+  "place_of_birth": "Komsomolsk-on-Amur city",
+  "forename": "SERGEI",
+  "arrest_warrants": [
+    {
+      "charge": "extremely large scale fraud",
+      "issuing_country_id": "RU",
+      "charge_translation": null
+    }
+  ],
+  "country_of_birth_id": "RU",
+  "hairs_id": null,
+  "name": "BORTSOV",
+  "languages_spoken_ids": [
+    "RUS"
+  ],
+  "height": null,
+  "_embedded": {
+    "links": []
+  },
+  "_links": {
+    "self": {
+      "href": "https://ws-public.interpol.int/notices/v1/red/2017-271991"
+    },
+    "images": {
+      "href": "https://ws-public.interpol.int/notices/v1/red/2017-271991/images"
+    },
+    "thumbnail": {
+      "href": "https://ws-public.interpol.int/notices/v1/red/2017-271991/images/60847296"
+    }
+  }
+}
